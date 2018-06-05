@@ -1,0 +1,5 @@
+water 100.0
+benzene 80.1
+toluene 111.0
+methanol 64.7
+chloroform 61.15
